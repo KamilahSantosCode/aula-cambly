@@ -1,0 +1,13 @@
+.item {
+    background-color: white;
+    border-radius: 5px;
+    box-shadow: 5px 5px 5px rgb(92, 88, 88);
+    padding-top: 15px;
+    text-align: center;
+    height: 400px;
+}
+
+.image img {
+    object-fit: contain;
+    max-width: 100%;
+}
